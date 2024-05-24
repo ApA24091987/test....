@@ -11,5 +11,5 @@ def factorial(n):
         return n * factorial(n-1)
 
 
-test_(1, 2, 3, a=4, b=5, c=6)
+test_(1, 3, 5, a=7, b=8, c=9)
 print(factorial(5))
